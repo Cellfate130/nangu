@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.gunan.org"
 relativeurls = true
 title = "Nan's Page"
 copyright = "&copy; 2016 Your Name"
