@@ -1,6 +1,6 @@
 baseurl = "/"
 relativeurls = true
-title = "Nan's　Page"
+title = "Nan's Page"
 copyright = "&copy; 2016 Your Name"
 theme = "hugo-academic"
 enableEmoji = true
